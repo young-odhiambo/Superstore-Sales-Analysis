@@ -36,7 +36,7 @@ The goal of this project is to help business stakeholders monitor key performanc
 ![image alt](https://github.com/young-odhiambo/Superstore-Sales-Analysis/blob/e0e785c10479927590a5412454484aaa91062c4f/Screenshot%202026-07-08%20150013.png)
 
 
-
+![image alt](https://github.com/young-odhiambo/Superstore-Sales-Analysis/blob/8446145c771251c0630d77d3a50628221b8903c7/Screenshot%202026-07-08%20152404.png)
 ---
 
 # Dashboard Analysis
