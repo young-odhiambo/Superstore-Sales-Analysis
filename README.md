@@ -1,6 +1,6 @@
 # SuperStore Sales Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an interactive **Power BI Sales Dashboard** built using the SuperStore dataset. 
 The dashboard provides business insights into sales performance, profitability, customer behavior, product performance, and regional trends.
@@ -33,7 +33,7 @@ The goal of this project is to help business stakeholders monitor key performanc
 
 ## Dashboard Overview
 
-![image alt](
+![image alt](https://github.com/young-odhiambo/Superstore-Sales-Analysis/blob/e0e785c10479927590a5412454484aaa91062c4f/Screenshot%202026-07-08%20150013.png)
 
 
 
